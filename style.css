@@ -94,6 +94,14 @@ h1, h2, h3, .oswald {
   margin-bottom: 0.75rem;
 }
 
+.seo-text {
+  font-size: 0.78rem;
+  color: var(--muted);
+  max-width: 600px;
+  margin: 1rem auto 0;
+  line-height: 1.7;
+}
+
 /* ---------- Scroll Animations ---------- */
 .af {
   opacity: 0;
